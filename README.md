@@ -7,7 +7,7 @@
 | 13.Roman to Integer | 7. Reverse Integer |  |
 | 14. Longest Common Prefix | 29. Divide Two Integers |  |
 | 20. Valid Parenthesesx | 50. Pow(x, n) |  |
-| 21. Merge Two Sorted Lists |  |  |
+| 21. Merge Two Sorted Lists | 647. Palindromic Substrings |  |
 | 26. Remove Duplicates from Sorted Array |  |  |
 | 27. Remove Element |  |  |
 | 58. Length of Last Word |  |  |
